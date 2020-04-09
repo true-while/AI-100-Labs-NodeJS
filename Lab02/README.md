@@ -22,7 +22,7 @@ We will build a simple C# application that allows you to ingest pictures from yo
 
 In the continuation of this lab throughout the course, we'll show you how to query your data, and then build a [Bot Framework](https://dev.botframework.com/) bot to query it. Finally, we'll extend this bot with [LUIS](https://www.microsoft.com/cognitive-services/en-us/language-understanding-intelligent-service-luis) to automatically derive intent from your queries and use those to direct your searches intelligently.
 
-![Architecture Diagram](../images/LaSb02_Arch.png)
+![Architecture Diagram](../images/Lab02_Arch.png)
 
 ## Lab 2.2: Resources
 
