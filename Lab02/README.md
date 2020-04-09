@@ -260,4 +260,4 @@ This lab was modified from this [Cognitive Services Tutorial](https://github.com
 
 ## Next Steps
 
-- [Lab 03-01: Basic Filter Bot](../Lab03/index.md)
+- [Lab 03-01: Basic Filter Bot](../Lab03/README.md)
