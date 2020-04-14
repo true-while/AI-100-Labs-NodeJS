@@ -423,13 +423,13 @@ async searching(stepContext) {
 * order pics
 * search pics
   
-![Test your bot](../images/lab03_test_restuls.png)
-
 > **Note** If you get a 500 error in your bot, you can place a break point in the **index.js** file inside the **OnTurnError** delegate method. Also the most common error is a mismatch of the AppId and AppSecret with your values in Azure and values your provide in Bot emulator.
 
 1. If the only thing that didn't give you the expected result was "search pics", everything is working how you configured it. 
 
 1. Send following message to the bot `search pics of dogs`. Bot will report you about start searching, but not relay search. This is expected behavior? Have an answer before you move on!
+
+![Test your bot](../images/lab03_test_restuls.png)
 
 >Get stuck or broken? You can find the solution for the lab up until this point under [resources/code/Finished](./code/Finished). The readme file within the solution (once you open it) will tell you what keys you need to add in order to run the solution. We recommend using this as a reference, not as a solution to run, but if you choose to run it, be sure to add the necessary keys for your environment.
 
