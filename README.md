@@ -26,7 +26,7 @@ This hands-on lab guides you through creating an intelligent console application
 
 In this lab, we will be setting up an intelligent bot from end-to-end that can respond to a user's chat window text prompt. We will be building on what we have already learned about building bots within Azure, but adding in a layer of custom logic to give our bot more bespoke functionality.
 
-**cumming soon**
+- [hands-on](/Lab03/README.md)
 
 ### Time to complete: 90 min
 
