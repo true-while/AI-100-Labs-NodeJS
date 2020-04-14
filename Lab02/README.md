@@ -14,7 +14,7 @@ In this lab, you will:
 
 While there is a focus on Cognitive Services, you will also leverage Visual Studio 2019.
 
-> **Note** if you have not already, follow the directions for creating your Azure account, Cognitive Services, and getting your api keys in [Lab1-Technical_Requirements](../Lab01/Lab01.md).
+> **Note** if you have not already, follow the directions for creating your Azure account, Cognitive Services, and getting your api keys in [Lab1-Technical_Requirements](../Lab01/README.md).
 
 ## Lab 2.1: Architecture
 
