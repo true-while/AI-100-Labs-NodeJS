@@ -12,6 +12,8 @@ Be mindful of the following AI Ethics principles when designing and implementing
 
 We encourage you to [Read more](https://ai-ethics.azurewebsites.net/) about the Ethical considerations when building intelligent apps.
 
+### Time to complete: 75 min
+
 ## Lab 3.1: Setting up for bot development
 
 We will be developing a bot using the latest Node.js SDK. To get started, we'll need to download the Bot Framework Emulator, and we'll need to create a Web App Bot and get the source code.

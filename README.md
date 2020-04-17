@@ -44,7 +44,7 @@ In the previous lab, we built a chat bot and modified the downloaded code to sui
 
 QnA Maker provides a conversational question and answer layer over your data. This allows your bot to send QnA Maker a question and receive an answer without you needing to parse and interpret the intent of their question.
 
-**cumming soon**
+- [hands-on](/Lab05/README.md)
 
 ### Time to complete: 30 min
 
@@ -53,9 +53,9 @@ QnA Maker provides a conversational question and answer layer over your data. Th
 
 We're going to build an end-to-end scenario that allows you to pull in your own pictures, use Cognitive Services to find objects and people in the images, and obtain a description and tags. We'll later build a Bot Framework bot using LUIS to allow easy, targeted querying.
 
-**cumming soon**
+- [hands-on](/Lab06/README.md)
 
-### Time to complete: 45 min
+### Time to complete: 30 min
 
 
 ## Lab 7: Integrate LUIS into Bot Dialogs

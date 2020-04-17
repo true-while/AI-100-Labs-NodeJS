@@ -7,6 +7,8 @@ This workshop demonstrates how you can perform logging using Microsoft Bot Frame
 - Understand how to intercept and log message activities between bots and users
 - Log utterances to file storage
 
+### Time to complete: 45 min
+
 ## Prerequisites
 
 This lab starts from the assumption that you have built and published the bot from [Lab 3](../Lab03/README.md).
