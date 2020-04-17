@@ -81,11 +81,11 @@ Let's look at how we can use LUIS to add some natural language capabilities. LUI
 
 1. Type a name, and select **Done**.  Close the "How to create an effective LUIS app" dialog.
 
-![LUIS New App](../images//LuisNewApp.png)
+![LUIS New App](../images/LuisNewApp.png)
 
 1. In the top navigation, select the **BUILD** link.  Notice there is one intent called "None".  Random utterances that don't map to any of your intents may be mapped to "None".
 
-![LUIS Dashboard](../images//LuisCreateIntent.png)
+![LUIS Dashboard](../images/LuisCreateIntent.png)
 
 We want our bot to be able to do the following things:
 
@@ -139,7 +139,7 @@ Once we have some utterances, we have to teach LUIS how to pick out the **search
 
 So your utterances may become something like this when facets are labeled:
 
-![Add Facet Entity](../images//SearchPicsIntentAfter.png|width=730)
+![Add Facet Entity](../images/SearchPicsIntentAfter.png)
 
 >**Note** This workshop does not include Azure Cognitive Search, however, this functionality has been left in for the sake of demonstration.
 
