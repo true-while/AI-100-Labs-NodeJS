@@ -9,7 +9,7 @@ This workshop demonstrates how you can perform logging using Microsoft Bot Frame
 
 ## Prerequisites
 
-This lab starts from the assumption that you have built and published the bot from [Lab 3](../Lab3/README.md).
+This lab starts from the assumption that you have built and published the bot from [Lab 3](../Lab03/README.md).
 
 It is recommended that you do that lab in order to be able to implement logging as covered in this lab. If you have not, reading carefully through all the exercises and looking at some of the code or using it in your own applications may be sufficient, depending on your needs.
 
@@ -23,7 +23,7 @@ Afterwards, we'll look at a very simple implementation of how we can write data 
 
 Let's take a look and what information we can glean, for testing purposes, without adding anything to our bot.
 
-1. Open **Starter** folder in VS Code. (Starter)[./code/Starter]
+1. Open **Starter** folder in VS Code. [Starter](./code/Starter)
 
 > **Note** You can use your previous solution if you did not do Lab 3.
 
@@ -208,7 +208,7 @@ The first line takes the incoming message from a user and stores it in a variabl
 }
 ```
 
->Get stuck or broken? You can find the solution for the lab up until this point under [/code/Ex02](./Ex02). You will need to insert the keys for your Azure Bot Service and your Azure Storage settings in the `.env` file. We recommend using this code as a reference, not as a solution to run, but if you choose to run it, be sure to add the necessary keys.
+>Get stuck or broken? You can find the solution for the lab up until this point under [/code/Ex02](./code/Ex02). You will need to insert the keys for your Azure Bot Service and your Azure Storage settings in the `.env` file. We recommend using this code as a reference, not as a solution to run, but if you choose to run it, be sure to add the necessary keys.
 
 ## Lab 4.3 Logging to Cosmos DB
 
@@ -262,7 +262,7 @@ CONTAINER=BotJS
 
 ![Cosmos DB logging](../images/lab04-node-cosomos.png)
 
->Get stuck or broken? You can find the solution for the lab up until this point under [/code/Finished](./Finished). You will need to insert the keys for your Azure Bot Service and your Azure Storage settings in the `.env` file. We recommend using this code as a reference, not as a solution to run, but if you choose to run it, be sure to add the necessary keys.
+>Get stuck or broken? You can find the solution for the lab up until this point under [/code/Finished](./code/Finished). You will need to insert the keys for your Azure Bot Service and your Azure Storage settings in the `.env` file. We recommend using this code as a reference, not as a solution to run, but if you choose to run it, be sure to add the necessary keys.
 
 ## Next Steps
 
