@@ -114,7 +114,7 @@ Let's see how to create an entity.  When the user requests to search the picture
 
 1. Select **Done**.
 
-<img src="../images/LuisCreateEntity.png" width="544px" style="max-width=544px"/>
+![test](../images/LuisCreateEntity.png =50x50)
 
 1. Select **Intents** in the left-hand sidebar and then click the **Create new intent** button.  
 
