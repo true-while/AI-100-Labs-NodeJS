@@ -81,11 +81,11 @@ Let's look at how we can use LUIS to add some natural language capabilities. LUI
 
 1. Type a name, and select **Done**.  Close the "How to create an effective LUIS app" dialog.
 
-![LUIS New App](../images//LuisNewApp.png)
+<img src="../images/LuisFacet.png"/>
 
 1. In the top navigation, select the **BUILD** link.  Notice there is one intent called "None".  Random utterances that don't map to any of your intents may be mapped to "None".
 
-![LUIS Dashboard](../images//LuisCreateIntent.png)
+<img src="../images/LuisCreateIntent.png"/>
 
 We want our bot to be able to do the following things:
 
