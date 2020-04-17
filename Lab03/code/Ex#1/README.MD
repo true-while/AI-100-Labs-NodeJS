@@ -35,7 +35,7 @@ This bot has been created as result of the previous exercises.
 
 1. Bot should proactively send you message 'Hello and welcome!' 
 
-![Test by Emulator](../../../iamges/help_test_greeting.png).
+![Test by Emulator](../../../images/help_test_greeting.png).
 
 1. Continue testing your bot according main scenario.
 
