@@ -81,11 +81,11 @@ Let's look at how we can use LUIS to add some natural language capabilities. LUI
 
 1. Type a name, and select **Done**.  Close the "How to create an effective LUIS app" dialog.
 
-<img src="../images/LuisFacet.png"/>
+<img src="../images/LuisFacet.png" width="1088px"/>
 
 1. In the top navigation, select the **BUILD** link.  Notice there is one intent called "None".  Random utterances that don't map to any of your intents may be mapped to "None".
 
-<img src="../images/LuisCreateIntent.png"/>
+<img src="../images/LuisCreateIntent.png" width="763px"/>
 
 We want our bot to be able to do the following things:
 
@@ -102,7 +102,7 @@ Let's create intents for the user requesting each of these.
 
 1. Give several examples of things the user might say when greeting the bot, pressing "Enter" after each one.
 
-![LUIS Greeting Intent](../images//LuisGreetingIntent.png)
+<img src="../images/LuisGreetingIntent.png" width="1313px"/>
 
 Let's see how to create an entity.  When the user requests to search the pictures, they may specify what they are looking for.  Let's capture that in an entity.
 
@@ -114,7 +114,7 @@ Let's see how to create an entity.  When the user requests to search the picture
 
 1. Select **Done**.
 
-![Add Facet Entity](../images//LuisCreateEntity.png)
+<img src="../images/LuisCreateEntity.png" width="544px"/>
 
 1. Select **Intents** in the left-hand sidebar and then click the **Create new intent** button.  
 
@@ -135,11 +135,11 @@ Once we have some utterances, we have to teach LUIS how to pick out the **search
 
 1. Hover and click the word (or click consecutive words to select a group of words) and then select the "facet" entity.
 
-![Luis Facets](../images//LuisFacet.png|width=763px)
+<img src="../images/LuisFacet.png" width="763px"/>
 
 So your utterances may become something like this when facets are labeled:
 
-![Add Facet Entity](../images//SearchPicsIntentAfter.png|width=730)
+<img src="../images/SearchPicsIntentAfter.png" width="730px"/>
 
 >**Note** This workshop does not include Azure Cognitive Search, however, this functionality has been left in for the sake of demonstration.
 
@@ -178,7 +178,7 @@ We are now ready to train our model.
 
 1. Finally, select **Publish**.
 
-![Publish LUIS App](../images//LuisPublish.png)
+<img src="../images/LuisPublish.png" width="1451px"/>
 
 Publishing creates an endpoint to call the LUIS model.  The URL will be displayed, which will be explained in a later lab.
 
@@ -192,11 +192,11 @@ Publishing creates an endpoint to call the LUIS model.  The URL will be displaye
 
 One quick example is shown below. I have noticed that my model incorrectly assigned "send me a swimming photo" as SharePic, when it should be SearchPics. I reassigned the intent.
 
-![Test LUIS](../images//ReassignIntent.png)
+<img src="../images/ReassignIntent.png" width="1116px"/>
 
 Now I need to retrain my app by selecting the Train button. I then tested the same utterance and compared the results between my recently trained and previously published model. Remember, you'll have to republish your model to see updates in the application that uses the model.
 
-![Reassign Intent](../images//ReassignIntentAfter.png)
+<img src="../images/ReassignIntentAfter.png" width="1121px"/>
 
 You can also [test your published endpoint in a browser](https://docs.microsoft.com/en-us/azure/cognitive-services/LUIS/PublishApp#test-your-published-endpoint-in-a-browser). Copy the Endpoint URL. To open this URL in your browser, set the URL parameter `&q=` to your test query. For example, append `Find pictures of dogs` to your URL, and then press Enter. The browser displays the JSON response of your HTTP endpoint.
 
