@@ -35,7 +35,7 @@ In this lab, we will be setting up an intelligent bot from end-to-end that can r
 
 In the previous lab, we built a chat bot and modified the downloaded code to suit out needs. Now, we wish to log bot chats to enable our customer service team to follow up to inquiries, determine if the bot is performing in the expected manner, and to analyze customer data.
 
-**cumming soon**
+- [hands-on](/Lab04/README.md)
 
 ### Time to complete: 30 min
 

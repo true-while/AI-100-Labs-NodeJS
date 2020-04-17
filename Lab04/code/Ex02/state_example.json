@@ -1,0 +1,25 @@
+{
+    "id": "emulator%2Fconversations%2Faf4ca0a0-8038-11ea-996a-95d981a865b2%7Clivechat",
+    "realId": "emulator/conversations/af4ca0a0-8038-11ea-996a-95d981a865b2|livechat/",
+    "document": {
+        "conversationData": {
+            "DialogState": {},
+            "PicBotState": {
+                "greeted": "greeted",
+                "search": [],
+                "searching": "no",
+                "messageCount": 4,
+                "utterance": [
+                    "hello",
+                    "help",
+                    "share pics",
+                    "order pics"
+                ]
+            }
+        },
+        "DialogState": {
+            "dialogStack": []
+        },
+        "eTag": "*"
+    }
+}
