@@ -135,7 +135,7 @@ Once we have some utterances, we have to teach LUIS how to pick out the **search
 
 1. Hover and click the word (or click consecutive words to select a group of words) and then select the "facet" entity.
 
-[[../images//LuisFacet.png|width=763]]
+[[../images//LuisFacet.png|width=763px]]
 
 So your utterances may become something like this when facets are labeled:
 
