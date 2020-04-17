@@ -135,11 +135,11 @@ Once we have some utterances, we have to teach LUIS how to pick out the **search
 
 1. Hover and click the word (or click consecutive words to select a group of words) and then select the "facet" entity.
 
-![Labeling Entity](../images//LuisFacet.png)
+![Labeling Entity](../images//LuisFacet.png | width=763)
 
 So your utterances may become something like this when facets are labeled:
 
-![Add Facet Entity](../images//SearchPicsIntentAfter.png)
+![Add Facet Entity](../images//SearchPicsIntentAfter.png | width=730)
 
 >**Note** This workshop does not include Azure Cognitive Search, however, this functionality has been left in for the sake of demonstration.
 
