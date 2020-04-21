@@ -15,7 +15,7 @@ This bot has been created as result of the previous exercises.
 
 1. Chose `open folder` and select current folder.
 
-![Debug Console output](../../images/help_test_openfolder.png).
+![Debug Console output](../images/help_test_openfolder.png).
 
 1. Open new terminal from `Terminal` menu. Run following command in the folder you have a `index.js` to install modules
 
@@ -27,15 +27,15 @@ This bot has been created as result of the previous exercises.
 
 1. Select `Run` from  VS Code menu, then select `Start Debugging`. Make sure your debugger attached. It should show output on `debugger console`
 
-![Debug Console output](../../images/help_test_debugconsole.png).
+![Debug Console output](../images/help_test_debugconsole.png).
 
 1. Connect your Bot Emulator to locally hosted bot. It usually hosted on `http://localhost:3978/api/messages`. You must provide the same optional values from file `.env`.
 
-![Connect by Bot Emulator](../../images/help_test_botemulator.png).
+![Connect by Bot Emulator](../images/help_test_botemulator.png).
 
 1. Bot should proactively send you message 'Hello and welcome!' 
 
-![Test by Emulator](../../images/help_test_greeting.png).
+![Test by Emulator](../images/help_test_greeting.png).
 
 1. Continue testing your bot according main scenario.
 
