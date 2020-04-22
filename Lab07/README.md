@@ -16,8 +16,15 @@ We will have to update our bot in order to use LUIS.  We can do this by modifyin
 
 1. If not already open, open your folder with solution in Visual Studio Code
 
-> **NOTE** You can also start with the **{GitHubPath}/Lab07/code/Starter/** solution if you did not start from Lab 1.
+> **NOTE** You can also start with the **{GitHubPath}/Lab07/code/Starter/** folder if you did not start from Lab 1.
 > Be sure to replace all the app settings values in **.evn** file
+
+
+1. Open terminal and run following command
+
+```bash
+npm install botbuilder-ai
+```
 
 1. Open **index.js** and locate the `PicBotDialogSet` class initialization. We'll add LUIS here by adding an additional service for LUIS after creating and registering the state accessors.
 
@@ -234,4 +241,4 @@ If you wish to attempt to integrate LUIS bot including Azure Cognitive Search, b
 
 ## Next Steps
 
-- [Lab 08-01: Detect Language](../Lab8/README.md)
+- [Lab 08-01: Detect Language](../Lab08/README.md)
