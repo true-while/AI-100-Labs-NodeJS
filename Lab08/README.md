@@ -177,7 +177,7 @@ await ReplyWithLuisScore(stepContext.context, topIntent.intent, topIntent.score,
 - Привет
 - Hello
 
-![Test Results](../../images/lab08-ex1-result.png)
+![Test Results](../images/lab08-ex1-result.png)
 
 >Get stuck or broken? You can find the solution for the lab up until this point under [code/Ex02](./code/Ex02). You will need to insert the keys for your Azure Bot Service in the `.env` file. We recommend using this code as a reference, not as a solution to run, but if you choose to run it, be sure to add the necessary keys (in this section, there shouldn't be any).
 
@@ -264,7 +264,7 @@ with:
 - This images was awesome.
 - This image is not good!
 
-![Test Results](../../images/lab08-final-result.png)
+![Test Results](../images/lab08-final-result.png)
 
 >Get stuck or broken? You can find the solution for the lab up until this point under [code/Finished](./code/Finished). You will need to insert the keys for your Azure Bot Service in the `.env` file. We recommend using this code as a reference, not as a solution to run, but if you choose to run it, be sure to add the necessary keys (in this section, there shouldn't be any).
 
