@@ -46,9 +46,9 @@ Select version applicable to your platform (Mac or Windows) and [download Node.j
 
 You also need to download and install following extensions for VS Code.
 
-[Node.js Ext Pack](https://marketplace.visualstudio.com/items?itemName=waderyan.nodejs-extension-pack)
-[Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)
-[Azure Web App](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice)
+>- [Node.js Ext Pack](https://marketplace.visualstudio.com/items?itemName=waderyan.nodejs-extension-pack) 
+>- [Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack) 
+>- [Azure Web App](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice) 
 
 ### Bot Emulator
 
