@@ -80,4 +80,4 @@ This hands-on lab guides you through some of the basics of testing bots. This wo
 
 - [hands-on](/Lab09/README.md)
 
-### Time to complete: 45 min
+### Time to complete: 60 min
