@@ -12,7 +12,7 @@ This hands-on lab introduces key concepts related to Direct Line API.
 
 ## Lab 9.0: Prerequisites
 
-This lab starts from the assumption that you have built and published the bot from [Lab 3](../Lab3-Basic_Filter_Bot/02-Basic_Filter_Bot.md). It is recommended that you do that lab in order to be successful in the ones that follow. If you have not, reading carefully through all the exercises and looking at some of the code or using it in your own applications may be sufficient, depending on your needs.
+This lab starts from the assumption that you have built and published the bot from [Lab 3](../Lab03/README.md). It is recommended that you do that lab in order to be successful in the ones that follow. If you have not, reading carefully through all the exercises and looking at some of the code or using it in your own applications may be sufficient, depending on your needs.
 
 We'll also assume that you've completed [Lab 4](../Lab04/README.md), but you should be able to complete the labs without completing the logging labs.
 
