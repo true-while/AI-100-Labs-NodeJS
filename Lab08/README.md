@@ -185,7 +185,7 @@ await ReplyWithLuisScore(stepContext.context, topIntent.intent, topIntent.score,
 
 1. In current exercise we will add support of sentiment recognition and output result in the same way like we did before.
 
-1. Lets ope file `picBotTextAnalytics.js` and add new function to the class to clean up a text for analytics.
+1. Lets open file `picBotTextAnalytics.js` and add new function to the class to clean up a text for analytics.
 
 ```js
     encodeText(text) {
