@@ -62,7 +62,7 @@ We're going to build an end-to-end scenario that allows you to pull in your own 
 
 In this hands-on our bot will be capable of taking in a user's input and responding based on the user's input, we will give our bot the ability to understand natural language with the LUIS model we built in previous exercise.
 
-**cumming soon**
+- [hands-on](/Lab07/README.md)
 
 ### Time to complete: 45 min
 
@@ -70,7 +70,7 @@ In this hands-on our bot will be capable of taking in a user's input and respond
 
 In this hands-on we implement Language Detection feature of the Azure Text Analytics REST API evaluates text input for each document and returns language identifiers with a score that indicates the strength of the analysis. The Language Detection feature can detect a wide range of languages, variants, dialects, and some regional or cultural languages. The exact list of languages for this feature isn't published. Those capabilities will be added to the bot developed before.
 
-**cumming soon**
+- [hands-on](/Lab08/README.md)
 
 ### Time to complete: 45 min
 
@@ -78,6 +78,6 @@ In this hands-on we implement Language Detection feature of the Azure Text Analy
 
 This hands-on lab guides you through some of the basics of testing bots. This workshop demonstrates how you can perform functional testing (using Direct Line).
 
-**cumming soon**
+- [hands-on](/Lab09/README.md)
 
 ### Time to complete: 45 min
