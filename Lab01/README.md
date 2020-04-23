@@ -4,7 +4,7 @@
 
 This lab is meant for an Artificial Intelligence (AI) Engineer or an AI Developer on Azure. To ensure you have time to work through the exercises, there are certain requirements to meet before starting the labs for this course.
 
-You should ideally have some previous exposure to Visual Studio Code. We will be using it for everything we are building in the labs, so you should be familiar with [Visual Studio Code ID](https://visualstudio.microsoft.com/) to create applications. Additionally, this is not a class where we teach code or development. We assume you have some familiarity with Java or JavaScrip and build the labs on Node.js platform (you can learn how to use VSCode and Node.js [here](https://channel9.msdn.com/Blogs/cloud-with-a-silver-lining/hello-visual-studio-code-nodejs?term=Nodejs%20%20Fundamentals&lang-en=true), but you do not know how to implement solutions with Cognitive Services.
+You should ideally have some previous exposure to Visual Studio Code. We will be using it for everything we are building in the labs, so you should be familiar with [Visual Studio Code IDE](https://visualstudio.microsoft.com/) to create applications. Additionally, this is not a class where we teach code or development. We assume you have some familiarity with Java or JavaScrip and build the labs on Node.js platform (you can learn how to use VSCode and Node.js [here](https://channel9.msdn.com/Blogs/cloud-with-a-silver-lining/hello-visual-studio-code-nodejs?term=Nodejs%20%20Fundamentals&lang-en=true), but you do not know how to implement solutions with Cognitive Services.
 
 The labs can be completed on Mac and Windows.
 
@@ -64,7 +64,7 @@ We will build a simple Node.js application that allows you to ingest pictures fr
 
 In the continuation of this lab throughout the lab, we'll show you how to build a [Bot Framework](https://dev.botframework.com/) bot to interact with customers' text inquiries. We will then demonstrate a quick solution for integrating existing Knowledge Bases and FAQs into a bot framework with the [QnA Maker](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/overview/overview). Finally, we'll extend this bot with [LUIS](https://www.microsoft.com/cognitive-services/en-us/language-understanding-intelligent-service-luis) to automatically derive intent from your queries and use those to respond to your customers' text requests intelligently.
 
-While out of scope for this lab, this architecture integrates Azure's data solutions manage storage of images and metadata in this architecture, through [Blob Storage]((https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-nodejs)) and [Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/sql-api-nodejs-get-started).
+While out of scope for this lab, this architecture integrates Azure's data solutions manage storage of images and metadata in this architecture, through [Blob Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-nodejs) and [Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/sql-api-nodejs-get-started).
 
 
 ## Lab 1.3: Resources for future projects/learning
