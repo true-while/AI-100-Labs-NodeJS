@@ -170,7 +170,7 @@ Spend some time reviewing this sample code. It's a good exercise to make sure yo
 
 ### Run the app
 
-1. Next from terminal type command `ndoe index.js` or run in debug mode.
+1. Next from terminal type command `node index.js` or run in debug mode.
 
 1. Have a conversation with the bot using the commandline application
 
