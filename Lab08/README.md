@@ -49,6 +49,7 @@ const dialogSet = new PicBotDialogSet(conversationState, luisRecognizer, textAna
 TextAnalyticsKey=""
 TextAnalyticsHostName=""
 ```
+>**Note** The Host name should be short URL like `https://[yourservicename].cognitiveservices.azure.com/`
 
 1. Add the following reference to the top of the file.
 
