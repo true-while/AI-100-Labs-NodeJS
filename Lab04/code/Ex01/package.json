@@ -17,7 +17,7 @@
     },
     "dependencies": {
         "botbuilder": "~4.6.1",
-        "botbuilder-azure": "^4.8.0",
+        "botbuilder-azure": "^4.18.0",
         "botbuilder-dialogs": "^4.8.0",
         "dotenv": "^8.2.0",
         "restify": "~8.4.0"
